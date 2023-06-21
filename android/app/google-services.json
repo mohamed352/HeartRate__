@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683099512861",
+    "project_id": "homescreen-bdf9b",
+    "storage_bucket": "homescreen-bdf9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683099512861:android:729da07480f063a3a966f4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_finsh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683099512861-svd13kq7ms0m2335d631mvq7fhla0hft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzFclpJUqepndYWmWH9yZyvjJ-1-3S_vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683099512861-svd13kq7ms0m2335d631mvq7fhla0hft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
